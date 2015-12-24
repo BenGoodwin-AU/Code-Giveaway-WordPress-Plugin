@@ -7,7 +7,7 @@ The plugin was created in 2011 as an experiment, and I **do not recommend using 
 
 ### Installation & Usage
 
-Coming Soon
+Download package and view the page in the "help" folder. 
 
 
 ### License
